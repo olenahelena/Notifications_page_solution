@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/olenahelena/Notifications_page_solution)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://roaring-marshmallow-52691e.netlify.app/)
 
 
 ### Built with
